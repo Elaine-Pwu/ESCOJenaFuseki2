@@ -5,7 +5,7 @@ This is a ready-to-run Maven project to start an **embedded Apache Jena Fuseki s
 ## How to use
 
 ### Prerequisites
-- Java 11 or newer
+- Java 21 or newer
 - Maven
 - Eclipse (optional)
 
