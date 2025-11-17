@@ -1,7 +1,5 @@
 # ESCOJenaFuseki
 
-This is a ready-to-run Maven project to start an **embedded Apache Jena Fuseki server** and load a TTL file at startup.
-
 ## How to use
 
 ### Prerequisites
